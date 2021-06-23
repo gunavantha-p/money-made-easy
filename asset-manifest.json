@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/money-made-easy/static/css/main.151bf8cc.chunk.css",
+    "main.js": "/money-made-easy/static/js/main.68149be1.chunk.js",
+    "main.js.map": "/money-made-easy/static/js/main.68149be1.chunk.js.map",
+    "runtime-main.js": "/money-made-easy/static/js/runtime-main.ea96a8de.js",
+    "runtime-main.js.map": "/money-made-easy/static/js/runtime-main.ea96a8de.js.map",
+    "static/js/2.52e5aa4e.chunk.js": "/money-made-easy/static/js/2.52e5aa4e.chunk.js",
+    "static/js/2.52e5aa4e.chunk.js.map": "/money-made-easy/static/js/2.52e5aa4e.chunk.js.map",
+    "index.html": "/money-made-easy/index.html",
+    "static/css/main.151bf8cc.chunk.css.map": "/money-made-easy/static/css/main.151bf8cc.chunk.css.map",
+    "static/js/2.52e5aa4e.chunk.js.LICENSE.txt": "/money-made-easy/static/js/2.52e5aa4e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/money-made-easy/static/media/money_dollar_dignity_amount_denominations_one_background_31463_1920x1080.5a842ad6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea96a8de.js",
+    "static/js/2.52e5aa4e.chunk.js",
+    "static/css/main.151bf8cc.chunk.css",
+    "static/js/main.68149be1.chunk.js"
+  ]
+}
